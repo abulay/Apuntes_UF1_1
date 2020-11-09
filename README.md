@@ -11,7 +11,7 @@ A continuació els tipus de programari d'acord a l'objectiu que té dins de el s
 
 # RELACIÓ HARDWARE-SOFTWARE
 
- [![N|Solid](https://1.bp.blogspot.com/-YrSDozngTPs/VZWbLsXekBI/AAAAAAAACmI/bw7ZIarNO3A/w1200-h630-p-k-no-nu/Hardware%2By%2BSoftware.jpg)]
+ [![NSolid](https://1.bp.blogspot.com/-YrSDozngTPs/VZWbLsXekBI/AAAAAAAACmI/bw7ZIarNO3A/w1200-h630-p-k-no-nu/Hardware%2By%2BSoftware.jpg)
 
 # CODIS FONT, OBJECTE I EXECUTABLE
 
