@@ -32,16 +32,16 @@ A continuació els tipus de programari d'acord a l'objectiu que té dins de el s
    - MANTENIMENT
 ```
 
-## ANALISIS
-```sh
+### ANALISIS
+
 Extreure els requisits d'un producte de programari és la primera etapa per crear-lo. Mentre que els clients pensen que ells saben el que el programari ha de fer, es requereix d'habilitat i experiència en l'enginyeria de programari per reconèixer requisits incomplets, ambigus o contradictoris.
-```
 
-## DISSENY
 
-```sh
+### DISSENY
+
 Es refereix a determinar com funcionarà de forma general sense entrar en detalls. Consisteix a incorporar consideracions de la implementació tecnològica, com el maquinari, la xarxa, etc. Es defineixen els casos d'ús per a cobrir les funcions que realitzarà el sistema, i es transformen les entitats definides en l'anàlisi de requisits en classes de disseny, obtenint un model proper a la programació orientada a objectes.
-```
+
+
 #### Building for source
 For production release:
 ```sh
