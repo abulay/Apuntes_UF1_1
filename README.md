@@ -3,11 +3,11 @@
 # TIPUS DE PROGRAMACIO
 
 A continuació els tipus de programari d'acord a l'objectiu que té dins de el sistema informàtic:
-
+```sh
    - De sistema (Sistema operatiu, drive
    - De aplicació (Suite ofimàtica, Navegador, Edició d'imatge, ...)
    - De desenvolupament (Editors, compiladors, intèrprets, ...)
-   
+   ```
 
 # RELACIÓ HARDWARE-SOFTWARE
 
