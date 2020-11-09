@@ -21,23 +21,15 @@ A continuació els tipus de programari d'acord a l'objectiu que té dins de el s
 | OBJECTE | binario no ejecutable |
 | EJECUTABLE | binario ejecutable. |
 
-### Installation
-
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
-
-Install the dependencies and devDependencies and start the server.
+# DESENVOLUPAMENT DE SOFTWARE
+   FASES PRINCIPALS
 
 ```sh
-$ cd dillinger
-$ npm install -d
-$ node app
-```
-
-For production environments...
-
-```sh
-$ npm install --production
-$ NODE_ENV=production node app
+   - ANÀLISI
+   - DISSENY
+   - CODIFICACIÓ
+   - PROVES
+   - MANTENIMENT
 ```
 
 ### Plugins
