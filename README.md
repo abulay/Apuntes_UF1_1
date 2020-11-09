@@ -8,9 +8,10 @@
 
 A continuació els tipus de programari d'acord a l'objectiu que té dins de el sistema informàtic:
 
-   -De sistema (Sistema operatiu, drivers)
-   -De aplicació (Suite ofimàtica, Navegador, Edició d'imatge, ...)
-   -De desenvolupament (Editors, compiladors, intèrprets, ...)
+   - De sistema (Sistema operatiu, drive
+   - De aplicació (Suite ofimàtica, Navegador, Edició d'imatge, ...)
+   - De desenvolupament (Editors, compiladors, intèrprets, ...)
+   
 
 # New Features!
 
