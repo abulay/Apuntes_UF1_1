@@ -61,10 +61,14 @@ Tipus de manteniment:
 - Perfectiu: es millora la funcionalitat.
 - Evolutiu: s'afegeix funcionalitats noves.
 - Adaptatiu: s'adapta a nous entorns.
-### Todos
 
- - Write MORE Tests
- - Add Night Mode
+## MODELOS DE DESARROLLO DE SOFTWARE
+
+```sh
+   - Models clàssics (predictius)
+   - Model de construcció de prototips
+   - Models evolutius o incrementals
+```
 
 License
 ----
