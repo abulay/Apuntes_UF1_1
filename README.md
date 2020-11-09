@@ -9,11 +9,11 @@ A continuació els tipus de programari d'acord a l'objectiu que té dins de el s
    - De desenvolupament (Editors, compiladors, intèrprets, ...)
    
 
-# RELACIÓN HARDWARE-SOFTWARE
+# RELACIÓ HARDWARE-SOFTWARE
 
  [![N|Solid](https://1.bp.blogspot.com/-YrSDozngTPs/VZWbLsXekBI/AAAAAAAACmI/bw7ZIarNO3A/w1200-h630-p-k-no-nu/Hardware%2By%2BSoftware.jpg)
 
-### Tech
+# CODIS FONT, OBJECTE I EXECUTABLE
 
 Dillinger uses a number of open source projects to work properly:
 
