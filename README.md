@@ -71,15 +71,15 @@ Tipus de manteniment:
 ```
 ### Models clàssics (predictius)
 #### MODEL CASCADA
-[![N|Solid](https://i2.wp.com/aspgems.com/wp-content/uploads/2019/03/metodologia-waterfall-1.png?fit=1600%2C814&ssl=1)
+![N|Solid](https://i2.wp.com/aspgems.com/wp-content/uploads/2019/03/metodologia-waterfall-1.png?fit=1600%2C814&ssl=1)
 #### MODEL V
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/d/d3/ModelVJoanNE.png)
+![N|Solid](https://upload.wikimedia.org/wikipedia/commons/d/d3/ModelVJoanNE.png)
 
 ### Model de construcció de prototips
-[![N|Solid](https://3.bp.blogspot.com/-FP69f2Mn1Pk/UZPimqd6AvI/AAAAAAAAACk/vQO3cgFSg-Y/s1600/construcciondeprototipos.gif)
+![N|Solid](https://3.bp.blogspot.com/-FP69f2Mn1Pk/UZPimqd6AvI/AAAAAAAAACk/vQO3cgFSg-Y/s1600/construcciondeprototipos.gif)
 ### Models evolutius o incrementals
 #### MODEL ESPIRAL (iterativos)
-[![N|Solid](https://aspgems.com/wp-content/uploads/2019/04/modelo-espiral.png)
+![N|Solid](https://aspgems.com/wp-content/uploads/2019/04/modelo-espiral.png)
 #### METODOLOGIAS AGILS (adaptativos)
 
 Les metodologies més conegudes són:
