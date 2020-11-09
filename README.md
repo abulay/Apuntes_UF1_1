@@ -41,44 +41,26 @@ Extreure els requisits d'un producte de programari és la primera etapa per crea
 
 Es refereix a determinar com funcionarà de forma general sense entrar en detalls. Consisteix a incorporar consideracions de la implementació tecnològica, com el maquinari, la xarxa, etc. Es defineixen els casos d'ús per a cobrir les funcions que realitzarà el sistema, i es transformen les entitats definides en l'anàlisi de requisits en classes de disseny, obtenint un model proper a la programació orientada a objectes.
 
+Les activitats habituals són les següents:
+- disseny arquitectònic
+- disseny detallat
+- Disseny de dades
+- Disseny d'interfície
 
-#### Building for source
-For production release:
-```sh
-$ gulp build --prod
-```
-Generating pre-built zip archives for distribution:
-```sh
-$ gulp build dist --prod
-```
-### Docker
-Dillinger is very easy to install and deploy in a Docker container.
+### CODIFICACIÓ
+Reduir un disseny a codi pot ser la part més òbvia de la feina d'enginyeria de programari, però no és necessàriament la porció més llarga. La complexitat i la durada d'aquesta etapa està íntimament lligada a l'o als llenguatges de programació utilitzats.
 
-By default, the Docker will expose port 8080, so change this within the Dockerfile if necessary. When ready, simply use the Dockerfile to build the image.
+### PROVES
+Consisteix en comprovar que el programari realitzi correctament les tasques indicades en l'especificació. Una tècnica de prova és provar per separat cada mòdul del programari, i després provar de forma integral, per així arribar a l'objectiu.
 
-```sh
-cd dillinger
-docker build -t joemccann/dillinger:${package.json.version} .
-```
-This will create the dillinger image and pull in the necessary dependencies. Be sure to swap out `${package.json.version}` with the actual version of Dillinger.
+### MANTENIMENT
+Mantenir i millorar el programari per enfrontar errors descoberts i nous requisits. Això pot portar més temps fins i tot que el desenvolupament inicial de l'programari.
 
-Once done, run the Docker image and map the port to whatever you wish on your host. In this example, we simply map port 8000 of the host to port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart="always" <youruser>/dillinger:${package.json.version}
-```
-
-Verify the deployment by navigating to your server address in your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-#### Kubernetes + Google Cloud
-
-See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
-
-
+Tipus de manteniment:
+- Correctiu: es corregeixen defectes.
+- Perfectiu: es millora la funcionalitat.
+- Evolutiu: s'afegeix funcionalitats noves.
+- Adaptatiu: s'adapta a nous entorns.
 ### Todos
 
  - Write MORE Tests
