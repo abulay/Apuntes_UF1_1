@@ -6,11 +6,11 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+A continuació els tipus de programari d'acord a l'objectiu que té dins de el sistema informàtic:
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+   -De sistema (Sistema operatiu, drivers)
+   -De aplicació (Suite ofimàtica, Navegador, Edició d'imatge, ...)
+   -De desenvolupament (Editors, compiladors, intèrprets, ...)
 
 # New Features!
 
