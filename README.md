@@ -119,8 +119,31 @@ Conjunt de fitxers objecte que estenen la funcionalitat de l'llenguatge
 ```sh
 Cada biblioteca està composta per diversos arxius objecte
 tipus:
-biblioteques dinàmiques (.DLL o .so) (.jar en Java)
-biblioteques estàtiques (.lib o .a)
+   - biblioteques dinàmiques (.DLL o .so) (.jar en Java)
+   - biblioteques estàtiques (.lib o .a)
+Parts d'una biblioteca:
+   - Especificació (ofereix una API)
+   - implementació
+```
+# ENTORN CAL EN JAVA
+- JRE: necessari per executar programes
+      - JVM (intéprete java)
+      - Biblioteca estàndard
+- JDK: necessari per desenvolupar programes
+      - Eines: javac, jar, javadoc, ...
+      
+ # ENTORNOS INTEGRADOS DE DESARROLLO (IDE)
+   ## EXEMPLES
+   ```sh
+   - Destinats principalment a C ++:
+      - DevC ++
+      - Microsoft Visual Studio
+      - QtCreator
+   - Destinats principalment a Java:
+      - Netbeans
+      - eclipsi
+      - IntelliJ IDEA
+      - Oracle JDeveloper
 ```
 **Free Software, Hell Yeah!**
 
