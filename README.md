@@ -90,12 +90,38 @@ Les metodologies més conegudes són:
 ```
 
 
-License
-----
+# CONCEPTES
+```sh
+   - Codi font
+   - Codi intermedi o objecte
+   - Codi binari
+   - Biblioteques (llibreries)
+   - Compilació
+   - Enllaçar (Link)
+   - interpretar
+```
 
-MIT
 
-
+# EL BÀSIC
+```sh
+   - Editor de text: permet escriure codi font
+   - Compilador: genera codi objecte a partir d'el codi font
+   - Enllaçador: agrupa diversos arxius objecte en un binari
+   - Intèrpret: llegeix codi font i genera codi binari per a la seva execució
+```
+# BIBLIOTEQUES (O LLIBRERIES) (I)
+```sh
+Conjunt de fitxers objecte que estenen la funcionalitat de l'llenguatge
+   - Biblioteca estàndard de el llenguatge
+   - Biblioteques addicionals
+```
+# BIBLIOTEQUES (O LLIBRERIES) (III)
+```sh
+Cada biblioteca està composta per diversos arxius objecte
+tipus:
+biblioteques dinàmiques (.DLL o .so) (.jar en Java)
+biblioteques estàtiques (.lib o .a)
+```
 **Free Software, Hell Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
